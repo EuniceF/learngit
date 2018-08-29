@@ -1,2 +1,3 @@
 newgit file
 make some changes
+newgit changes
